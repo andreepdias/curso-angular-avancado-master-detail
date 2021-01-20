@@ -1,4 +1,4 @@
-# Finances
+# Curso Angular Avançado
 
 Aplicação de finanças pessoais desenvolvida em um curso na Udemy com Angular 7 (e migração para o 11) e Bootstrap 4.
 
